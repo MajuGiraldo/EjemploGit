@@ -1,0 +1,12 @@
+entities/Record.java
+ entities.Record
+entities/Session.java
+ entities.Session
+entities/Activity.java
+ entities.Activity
+entities/Plan.java
+ entities.Plan
+entities/Week.java
+ entities.Week
+entities/MasterTraining.java
+ entities.MasterTraining
